@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6I0clyDgiMm" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Your First Financial Aid [EA]</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Your_First_Financial_Aid_[EA]_ORG">
+    <organization identifier="Your_First_Financial_Aid_[EA]_ORG">
+      <title>Your First Financial Aid [EA]</title>
+      <item identifier="Your_First_Financial_Aid_[EA]_SCO" isvisible="true" identifierref="__6I0clyDgiMm_RES">
+        <title>Your First Financial Aid [EA]</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6I0clyDgiMm_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Ibi7WdcbcT.png" />
+      <file href="mobile/64g0SCnx0Mn.png" />
+      <file href="mobile/6TNv3RFfBoZ.png" />
+      <file href="mobile/6rfgtfPcagb.png" />
+      <file href="mobile/6qDWjeUEj9T_80.jpg" />
+      <file href="mobile/681KsP9uoWL_Q2000000.png" />
+      <file href="mobile/6lqAaMU9Ruh.png" />
+      <file href="mobile/67Ytjmm5v8P.png" />
+      <file href="mobile/5sG5MTllxHY_80_P_334_0_1268_1229.jpg" />
+      <file href="mobile/6MwkrOxISgE.png" />
+      <file href="mobile/5V1K5VNUq3Y.png" />
+      <file href="mobile/5mx2A0gcLwA.png" />
+      <file href="mobile/6Lsa1ySGt2A.png" />
+      <file href="mobile/5emmBk0vVjO.png" />
+      <file href="mobile/5k912WBwUMF.png" />
+      <file href="mobile/5upj2xbAWPr.png" />
+      <file href="mobile/6Ab84ZYhsnt.png" />
+      <file href="mobile/63rSidaX0NP.png" />
+      <file href="mobile/5sG5MTllxHY_80.jpg" />
+      <file href="mobile/6HAHEfwXCUc.png" />
+      <file href="mobile/6H9jNzxqIj6.png" />
+      <file href="mobile/5yAHAwo5AJZ.png" />
+      <file href="mobile/6dt2eFWItdP.png" />
+      <file href="mobile/5qNxQn4OfvF.png" />
+      <file href="mobile/6VUZvKI5kmt.png" />
+      <file href="mobile/5r2wlPQsD0R.png" />
+      <file href="mobile/5bNpWVhFtAA.png" />
+      <file href="mobile/6f6ngRSRuVo.png" />
+      <file href="mobile/68dAjCHxMlK.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6lqDkAb53N4.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eaxrcOextr.js" />
+      <file href="html5/data/js/5ek1b7WgSVl.js" />
+      <file href="html5/data/js/5g2ztNJjNFN.js" />
+      <file href="html5/data/js/5pfJGUZnGEv.js" />
+      <file href="html5/data/js/5v6ploDvwvI.js" />
+      <file href="html5/data/js/60PlS327Zld.js" />
+      <file href="html5/data/js/64NdGAUaMxy.js" />
+      <file href="html5/data/js/69N5s6Rt4EC.js" />
+      <file href="html5/data/js/6gdWKFigp7t.js" />
+      <file href="html5/data/js/6gWCX29arkK.js" />
+      <file href="html5/data/js/6MjxHmZYk3z.js" />
+      <file href="html5/data/js/6O7J8jP8ipI.js" />
+      <file href="html5/data/js/6oKwDbIsna9.js" />
+      <file href="html5/data/js/6PFe5pjs5Hb.js" />
+      <file href="html5/data/js/6qdL5mWuLim.js" />
+      <file href="html5/data/js/6rFk9dud2ws.js" />
+      <file href="html5/data/js/6RwOsiKWsHh.js" />
+      <file href="html5/data/js/6UsKagEvePc.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
